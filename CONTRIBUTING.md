@@ -1,4 +1,4 @@
-# The Easy Path (recommended)
+# The Easy Path (recommended) An Easy path
 
 To get started on the easy path, you simply need [`docker`](https://www.docker.com/get-started) and [`docker-compose`](https://docs.docker.com/compose/). By utilizing docker and compose you don't need to think about anything on your host system (python versions, virtual environments, etc). Instead you can run the following and be ready to rock:
 
